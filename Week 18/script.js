@@ -178,7 +178,7 @@ const data = `[
     <p>${info}</p>
     </div>
     <div class="wr_img">
-    <img src=${url} alt=${name} style="max-width: 550 px"/> 
+    <img src=${url} alt=${name} style="max-width: 550px"/> 
     </div>
     </div>
     `;
